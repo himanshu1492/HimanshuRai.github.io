@@ -1,1 +1,0 @@
-This Bolg is to discuss new algorithum and update in machine learning industry.
